@@ -17,6 +17,7 @@ credentials/
 *.json
 !tsconfig.json
 !package.json
+!vercel.json
 
 # Logs
 logs/
